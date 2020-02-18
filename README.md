@@ -1,4 +1,4 @@
-# ecom
+# vuep2
 
 ## Project setup
 ```
